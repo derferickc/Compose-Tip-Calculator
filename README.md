@@ -1,6 +1,5 @@
 Tip Time - Solution Code
-====================
-=============
+=================================
 
 <img width="262" alt="Screen Shot 2024-05-02 at 12 27 59 AM" src="https://github.com/derferickc/Compose-Tip-Calculator/assets/12961257/94c067ab-4471-4243-af9a-b8b955004a19">
 
